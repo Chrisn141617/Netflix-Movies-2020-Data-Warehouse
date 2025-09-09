@@ -7,11 +7,7 @@ The project can be used as a learning resource for database students or as a fou
 
 # Project Structure
 
-├── cnqj_netflix_movies_2020_db.sql        # MySQL schema + initial data
-├── cnqj_netflix_movies_2020_programs.sql  # Stored functions, procedures, and views
-├── cnqj_netflix_movies_2020_erd.mwb       # Entity Relationship Diagram (MySQL Workbench)
-├── cnqj_netflix_movies_2020_data.xlsx     # Dataset of Netflix movies (2020)
-├── cnqj_netflix_movies_2020_presentation.mp4 # Project presentation
-└── README.md                              # Project documentation
-
-
+1. cnqj_netflix_movies_2020_erd.mwb       # Entity Relationship Diagram (MySQL Workbench)
+2. cnqj_netflix_movies_2020_data.xlsx     # Dataset of Netflix movies (2020)
+3. cnqj_netflix_movies_2020_db.sql        # MySQL schema + initial data
+4. cnqj_netflix_movies_2020_programs.sql  # Stored functions, procedures, and views
